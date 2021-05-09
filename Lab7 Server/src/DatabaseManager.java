@@ -6,8 +6,8 @@ public class DatabaseManager {
 
     private static final Logger userLogger = LogManager.getLogger(DatabaseManager.class);
     private static final String DB_URL = "jdbc:postgresql://localhost:5674/studs";
-    private static final String USER = "s307405";
-    private static final String PASS = "hji837";
+    private static final String USER = "";
+    private static final String PASS = "";
     private Connection connection = null;
     private Statement statement = null;
 
