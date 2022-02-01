@@ -1,4 +1,4 @@
 # pr
-My Labs
-Enjoy:)
-Yes, sir:>
+Labs of Programming subject (Java)
+
+Update soon!
